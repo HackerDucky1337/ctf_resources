@@ -2,7 +2,7 @@
 
 <div class="row" id="resources">
 <div class="col-md-12">
-  <h1><b>Resources</b> Guides, Courses, Writeups and Tools That May Be Useful, Aimed for Technion Students</h1>
+  <h2> Guides, Courses, Writeups and Tools That May Be Useful for Cyber Security, Aimed for Technion Students </h2>
 <br/>
 <br/>
 <div align="center">
