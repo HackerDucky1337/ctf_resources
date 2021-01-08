@@ -2,9 +2,12 @@
 
 <div class="row" id="resources">
 <div class="col-md-12">
-<h1 class="mb-4">Resources  <small class="text-muted" style="font-size: 24px;">Guides, Courses, Writeups and Tools That May Be Useful</small></h1>
+<h1 class="mb-4">Resources</h1>
+<h2>Guides, Courses, Writeups and Tools That May Be Useful</h2>
 
-<h3 class="mb-2"> General </h3>
+<div align="center">
+<h2 class="mb-2"> General </h2>
+</div>
 
 
 <div id="general" class="collapse" aria-labelledby="general-header" data-parent="#accordion">
@@ -37,7 +40,11 @@
 </div>
 </div>
 
-<h3 class="mb-2"> Cryptography </h3>
+<div align="center">
+<h2 class="mb-2"> Cryptography </h2>
+</div>
+
+
 
 
 <div id="cryptography" class="collapse" aria-labelledby="cryptography-header" data-parent="#accordion">
@@ -86,7 +93,9 @@
 </div>
 </div>
 
-<h3 class="mb-2"> Web Exploitation </h3>
+<div align="center">
+<h2 class="mb-2"> Web Exploitation </h2>
+</div>
 
 
 <div id="web" class="collapse" aria-labelledby="web-header" data-parent="#accordion">
@@ -124,7 +133,11 @@
 </div>
 </div>
 
-<h3 class="mb-2"> Reversing & Binary Exploitation </h3>
+<div align="center">
+<h2 class="mb-2"> Reversing & Binary Exploitation </h2>
+</div>
+
+
 
 
 <div id="rev" class="collapse" aria-labelledby="rev-header" data-parent="#accordion">
