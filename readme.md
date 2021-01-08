@@ -2,12 +2,13 @@
 
 <div class="row" id="resources">
 <div class="col-md-12">
-<h1 class="mb-4">Resources</h1>
-<h2>Guides, Courses, Writeups and Tools That May Be Useful</h2>
-
+  <h1><b>Resources</b> Guides, Courses, Writeups and Tools That May Be Useful, Aimed for Technion Students</h1>
+<br/>
+<br/>
 <div align="center">
 <h2 class="mb-2"> General </h2>
 </div>
+<br/>
 
 
 <div id="general" class="collapse" aria-labelledby="general-header" data-parent="#accordion">
@@ -40,13 +41,11 @@
 </div>
 </div>
 
+<br/>
 <div align="center">
 <h2 class="mb-2"> Cryptography </h2>
 </div>
-
-
-
-
+<br/>
 <div id="cryptography" class="collapse" aria-labelledby="cryptography-header" data-parent="#accordion">
 <div class="card-body">  
   <h4 class="mb-2">General</h4>
@@ -93,11 +92,11 @@
 </div>
 </div>
 
+<br/>
 <div align="center">
 <h2 class="mb-2"> Web Exploitation </h2>
 </div>
-
-
+<br/>
 <div id="web" class="collapse" aria-labelledby="web-header" data-parent="#accordion">
 <div class="card-body">  
   <h4 class="mb-2">General</h4>
@@ -133,10 +132,11 @@
 </div>
 </div>
 
+<br/>
 <div align="center">
 <h2 class="mb-2"> Reversing & Binary Exploitation </h2>
 </div>
-
+<br/>
 
 
 
